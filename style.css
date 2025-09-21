@@ -7,7 +7,7 @@
   box-sizing: border-box;
   align-items: center;
 }
-
+<h2>This is edited in github </h2>
 body {
   background-color:  #151719;
   background-image: url('/pics/mainpics/CardsBg.png');
@@ -345,5 +345,6 @@ div.img img
       max-width: 100%;
     }
   }
+
 
 
